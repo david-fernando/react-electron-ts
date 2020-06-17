@@ -1,4 +1,4 @@
-<h1 align="center">React Electron with Typescript </h1>
+<h1 align="center">React Electron with TypeScript </h1>
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 ## <div id="about">About</div>
 
-Easy-to-understand-and-use boilerplate code for creating an Electron desktop app simply using Reactjs. Includes React Router
+Easy-to-understand-and-use boilerplate code for creating an Electron desktop app simply using Reactjs and TypeScript. Includes React Router
 
 ## <div id="usage">How to use</div>
 
