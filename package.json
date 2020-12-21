@@ -15,7 +15,7 @@
   "dependencies": {
     "cross-env": "^6.0.3",
     "electron-is-dev": "^1.1.0",
-    "react": "^16.11.0",
+    "react": "^17.0.1",
     "react-dom": "^16.11.0",
     "react-router-dom": "^5.1.2",
     "react-scripts": "^3.4.1",
