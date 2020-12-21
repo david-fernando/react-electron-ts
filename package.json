@@ -50,8 +50,8 @@
     "@types/react-dom": "^16.9.8",
     "@types/react-router-dom": "^5.1.6",
     "concurrently": "^5.2.0",
-    "electron": "^7.1.0",
-    "electron-builder": "^22.9.1",
+    "electron": "^7.2.4",
+    "electron-builder": "^22.1.0",
     "wait-on": "^3.3.0"
   }
 }
