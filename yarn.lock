@@ -4128,7 +4128,7 @@ ejs@^3.1.5:
   dependencies:
     jake "^10.6.1"
 
-electron-builder@^22.9.1:
+electron-builder@^22.1.0:
   version "22.9.1"
   resolved "https://registry.yarnpkg.com/electron-builder/-/electron-builder-22.9.1.tgz#a2962db6f2757bc01d02489f38fafe0809f68f60"
   integrity sha512-GXPt8l5Mxwm1QKYopUM6/Tdh9W3695G6Ax+IFyj5pQ51G4SD5L1uq4/RkPSsOgs3rP7jNSV6g6OfDzdtVufPdA==
@@ -4148,7 +4148,7 @@ electron-builder@^22.9.1:
     update-notifier "^4.1.1"
     yargs "^16.0.3"
 
-electron-is-dev@^1.1.0:
+electron-is-dev@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/electron-is-dev/-/electron-is-dev-1.2.0.tgz#2e5cea0a1b3ccf1c86f577cee77363ef55deb05e"
   integrity sha512-R1oD5gMBPS7PVU8gJwH6CtT0e6VSoD0+SzSnYpNm+dBkcijgA+K7VAMHDfnRq/lkKPZArpzplTW6jfiMYosdzw==
