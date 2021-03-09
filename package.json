@@ -14,7 +14,7 @@
   "private": true,
   "dependencies": {
     "cross-env": "^7.0.3",
-    "electron-is-dev": "^1.2.0",
+    "electron-is-dev": "^2.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
