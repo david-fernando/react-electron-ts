@@ -15,8 +15,8 @@
   "dependencies": {
     "cross-env": "^7.0.3",
     "electron-is-dev": "^2.0.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-router-dom": "^6.3.0",
     "react-scripts": "^5.0.1",
     "typescript": "^4.7.4"
@@ -46,7 +46,7 @@
     ]
   },
   "devDependencies": {
-    "@types/react": "^17.0.25",
+    "@types/react": "^18.0.17",
     "@types/react-dom": "^17.0.9",
     "@types/react-router-dom": "^5.3.3",
     "concurrently": "^7.3.0",
