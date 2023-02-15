@@ -47,7 +47,7 @@
   },
   "devDependencies": {
     "@types/react": "^18.0.21",
-    "@types/react-dom": "^18.0.8",
+    "@types/react-dom": "^18.0.11",
     "@types/react-router-dom": "^5.3.3",
     "concurrently": "^7.5.0",
     "electron": "^20.2.0",
